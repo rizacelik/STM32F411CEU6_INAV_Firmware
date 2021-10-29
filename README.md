@@ -15,13 +15,13 @@ Configurator is not signed, so you have to allow Windows to run untrusted applic
 # Install DFU Drivers (DFU mode)
 ## ImpulseRC Driver Fixer
 https://impulserc.blob.core.windows.net/utilities/ImpulseRC_Driver_Fixer.exe
-Start ImpluseRC Driver Fixer
-Connect the FC USB to the PC While holding the boot button in. (DO NOT power on FC via external 5V or Vbat)
-The ImpulseRC Driver Fixer should then see and load the proper driver
-Start INAV configurator
-Connect the FC USB to the PC while holding the boot button in.
-INAV configurator should show it’s connected in DFU mode in the top right corner (DO NOT click the CONNECT button)
-Choose the latest hex file for your FC and then “Load Firmware local”. Once loaded, click “Flash Firmware”.
+* Start ImpluseRC Driver Fixer
+* Connect the FC USB to the PC While holding the boot button in. (DO NOT power on FC via external 5V or Vbat)
+* The ImpulseRC Driver Fixer should then see and load the proper driver
+* Start INAV configurator
+* Connect the FC USB to the PC while holding the boot button in.
+* INAV configurator should show it’s connected in DFU mode in the top right corner (DO NOT click the CONNECT button)
+* Choose the latest hex file for your FC and then “Load Firmware local”. Once loaded, click “Flash Firmware”.
 
 ![image](https://user-images.githubusercontent.com/19993109/139479854-9793e17c-1e2a-4ccc-8b5f-ec23026710fd.png)
 
