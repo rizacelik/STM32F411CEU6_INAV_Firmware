@@ -1,3 +1,6 @@
+# Download STM32F411CEU6 INAV Firmware
+https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/blob/main/inav_3.1.0_STM32F411CEX2.hex
+
 # STM32F411CEU6 INAV Firmware
 STM32F411CEU6 Board Firmware
 First, let's connect the board and the computer.
