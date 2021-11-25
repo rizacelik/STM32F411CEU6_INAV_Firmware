@@ -26,6 +26,12 @@ https://impulserc.blob.core.windows.net/utilities/ImpulseRC_Driver_Fixer.exe
 * INAV configurator should show it’s connected in DFU mode in the top right corner (DO NOT click the CONNECT button)
 * Choose the latest hex file for your FC and then “Load Firmware local”. Once loaded, click “Flash Firmware”.
 
+# Setup sensors video
+https://youtu.be/HbSUMauSkiw
+
+[![sensors setup](https://user-images.githubusercontent.com/19993109/143448588-6d599bb3-b89d-479a-997a-c6c4c3e21fea.png)](https://youtu.be/HbSUMauSkiw "sensors setup")
+
+
 # STM32F411CEU6 PINOUT Connection
 ![image](https://user-images.githubusercontent.com/19993109/139479854-9793e17c-1e2a-4ccc-8b5f-ec23026710fd.png)
 
