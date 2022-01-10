@@ -45,6 +45,14 @@ https://youtu.be/HbSUMauSkiw
 ![image](https://user-images.githubusercontent.com/19993109/139479978-5e0735b5-34c6-4752-b130-f54a79ec9ce5.png)
 
 ![image](https://user-images.githubusercontent.com/19993109/139480054-d270bc46-24c8-4c49-a4b3-eb6e3ae2ea32.png)
+
+# INAV Configurator IBUS Telemetry Setup
+
+![image](https://user-images.githubusercontent.com/19993109/148845453-e8c84093-4cae-4f5f-9f57-10febcd7216a.png)
+
+# IBUS Receiver Pins and IBUS Telemetry input Receiver
+![image](https://user-images.githubusercontent.com/19993109/148845532-a4476a7b-ea24-4711-903e-6e2f61280f9a.png)
+
 # OSD Connection
 ![image](https://user-images.githubusercontent.com/19993109/148816930-2e3b88e6-693b-42f9-bf57-801aac6cbe31.png)
 
