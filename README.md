@@ -53,6 +53,9 @@ https://youtu.be/HbSUMauSkiw
 # IBUS Receiver Pins and IBUS Telemetry input Receiver
 ![image](https://user-images.githubusercontent.com/19993109/148845532-a4476a7b-ea24-4711-903e-6e2f61280f9a.png)
 
+## SOFTSERIAL_1_TX_PIN     PB6
+![image](https://user-images.githubusercontent.com/19993109/148846827-12eb543c-f4cb-4ab8-be8f-1b9b10d9a25b.png)
+
 # OSD Connection
 ![image](https://user-images.githubusercontent.com/19993109/148816930-2e3b88e6-693b-42f9-bf57-801aac6cbe31.png)
 
