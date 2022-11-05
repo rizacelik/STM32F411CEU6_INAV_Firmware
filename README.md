@@ -1,3 +1,9 @@
+# Responsibility and resource
+This is the unofficial target for INAV(https://github.com/iNavFlight/inav). Provides support for flight control boards that do not have official INAV support for the STM32F411CEU6 board. No responsibility is assumed for any risks arising from this firmware and it is the sole responsibility of the user.
+The user cannot hold me responsible for any damages. Whether or not to use this firmware is the user's responsibility and is free to do so.
+INAV developer link : https://github.com/iNavFlight/inav/tree/master/docs/development
+You can find all the details for firmware development here.
+
 # Download STM32F411CEU6 INAV Firmware
 https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/blob/main/inav_3.1.0_STM32F411CEX2.hex
 
