@@ -9,7 +9,7 @@ STM32F411CEU6 Board Firmware
 First, let's connect the board and the computer.
 ![image](https://user-images.githubusercontent.com/19993109/139479391-49dafee0-a7da-49ae-9196-10a578d4ac55.png)
 
-# Download INAV Configurator 3.0.2 
+# Download INAV Configurator
 https://github.com/iNavFlight/inav-configurator/releases
 
 ## Windows
