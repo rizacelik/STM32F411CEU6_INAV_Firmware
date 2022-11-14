@@ -36,6 +36,9 @@ https://youtu.be/HbSUMauSkiw
 
 ![image](wire.png)
 
+![image](https://user-images.githubusercontent.com/19993109/201614412-7dfbabe1-0d44-4a7a-8c4c-8c0ad2cb14ac.png)
+
+
 # Camera Switch and Power Switch 
 ![image](https://user-images.githubusercontent.com/19993109/201590186-375f1227-3c79-4911-b299-c99d0dd17070.png)
 
