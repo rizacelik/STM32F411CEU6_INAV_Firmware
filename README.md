@@ -10,7 +10,7 @@ First, let's connect the board and the computer.
 # Download INAV Configurator
 https://github.com/iNavFlight/inav-configurator/releases
 
-## Windows
+# Windows
 Download Configurator for Windows platform (win32 or win64 is present)
 Extract ZIP archive
 Run INAV Configurator app from unpacked folder
