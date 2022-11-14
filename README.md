@@ -48,6 +48,12 @@ R1 : 10 kOhm,R2 : 4.8 kOhm, Transistor 2N3904, 2N2222 or similar
 # Camera Switch and Power Switch 
 ![image](https://user-images.githubusercontent.com/19993109/201590186-375f1227-3c79-4911-b299-c99d0dd17070.png)
 
+# Monitoring Battery Voltage
+![image](https://user-images.githubusercontent.com/19993109/201759640-6365017f-2cce-4822-a51d-53cedb853967.png)
+
+You can use this online voltage divider calculator to play around with different values.
+https://ohmslawcalculator.com/voltage-divider-calculator
+
 # STM32F411CEU6 PINOUT Connection
 ![image](https://user-images.githubusercontent.com/19993109/139479854-9793e17c-1e2a-4ccc-8b5f-ec23026710fd.png)
 
