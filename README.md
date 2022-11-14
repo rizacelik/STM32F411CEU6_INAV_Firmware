@@ -38,6 +38,12 @@ https://youtu.be/HbSUMauSkiw
 
 ![image](https://user-images.githubusercontent.com/19993109/201614412-7dfbabe1-0d44-4a7a-8c4c-8c0ad2cb14ac.png)
 
+## Sbus converter using Board
+One Transistor and two resistors will do the same job instead of the 74LS04.
+
+![image](https://user-images.githubusercontent.com/19993109/201615814-a0dac0a4-0e6e-429b-bf59-4add49a6e6d6.png)
+
+R1 : 10 kOhm,R2 : 4.8 kOhm, Transistor 2N3904, 2N2222 or similar
 
 # Camera Switch and Power Switch 
 ![image](https://user-images.githubusercontent.com/19993109/201590186-375f1227-3c79-4911-b299-c99d0dd17070.png)
