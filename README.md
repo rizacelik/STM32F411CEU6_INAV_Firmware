@@ -41,7 +41,7 @@ https://youtu.be/HbSUMauSkiw
 ## Sbus converter using Board
 One Transistor and two resistors will do the same job instead of the 74LS04.
 
-![image](https://user-images.githubusercontent.com/19993109/201615814-a0dac0a4-0e6e-429b-bf59-4add49a6e6d6.png)
+![image](https://user-images.githubusercontent.com/19993109/201617772-c9b7058b-ae02-4945-8996-71ebae684946.png)
 
 R1 : 10 kOhm,R2 : 4.8 kOhm, Transistor 2N3904, 2N2222 or similar
 
