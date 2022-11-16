@@ -36,14 +36,7 @@ https://youtu.be/HbSUMauSkiw
 
 ![image](wire.png)
 
-![image](https://user-images.githubusercontent.com/19993109/201614412-7dfbabe1-0d44-4a7a-8c4c-8c0ad2cb14ac.png)
-
-## Sbus converter using Board
-One Transistor and two resistors will do the same job instead of the 74LS04.
-
-![image](https://user-images.githubusercontent.com/19993109/201617772-c9b7058b-ae02-4945-8996-71ebae684946.png)
-
-R1 : 10 kOhm,R2 : 4.8 kOhm, Transistor 2N3904, 2N2222 or similar
+![image](https://user-images.githubusercontent.com/19993109/202130179-ef0616bc-785d-4cfc-98a4-097b3db7d4aa.png)
 
 # Camera Switch and Power Switch 
 ![image](https://user-images.githubusercontent.com/19993109/201590186-375f1227-3c79-4911-b299-c99d0dd17070.png)
@@ -53,6 +46,12 @@ R1 : 10 kOhm,R2 : 4.8 kOhm, Transistor 2N3904, 2N2222 or similar
 
 You can use this online voltage divider calculator to play around with different values.
 https://ohmslawcalculator.com/voltage-divider-calculator
+
+# Use DC DC converter for Servo Motors
+![image](https://user-images.githubusercontent.com/19993109/202128769-e25c806f-7465-484e-b5be-e26ed039809d.png)
+
+# Use DC DC converter for Board
+![image](https://user-images.githubusercontent.com/19993109/202129433-0c62a71a-41a4-4acb-99f8-6ad0d76db480.png)
 
 # STM32F411CEU6 PINOUT Connection
 ![image](https://user-images.githubusercontent.com/19993109/139479854-9793e17c-1e2a-4ccc-8b5f-ec23026710fd.png)
