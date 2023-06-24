@@ -43,6 +43,23 @@ https://youtu.be/HbSUMauSkiw
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/1c16d8e9-cdd1-47fe-917a-640c6c577156)
 
 
+# Calibration for ESC
+
+Instructions for setting throttle calibration for ESC high and low signal input:
+1. Connect the ESC with the motor, connect the signal lead to the board according to the pin and motor port according to the diagram. You should do this for all of the motors you are going to use.
+2. Open the INAV Configurator and connect to the flight control hub.
+3. Adjust the gyroscope / accelerometer and magnometer calibration settings.
+4. Turn on the remote control and enable the receiver protocol in the Receiver section. 
+5. Go to the Output field and set the ESC output protocol according to you. We describe the setup for the STANDARD protocol.
+6.To calibrate ESCs, make sure the propellers are off, flick on the “I understand” toggle, raise Master to full value, and plug in your battery.
+7. The ESCs will go through their tones.
+8. When the double beeping sound is heard (the highest point of the throttle is confirmed), move the throttle to the lowest point.
+9. ESC calibration is considered done when three beeps mean OK.
+10. Now unplug, plug in again, and raise Master very slowly until the motors are spinning comfortably.
+
+This video your can help. https://www.youtube.com/watch?v=1IrgbY0YhqM
+
+
 # Old version INAV Firmware Full wire connection
 
 ![image](wire.png)
