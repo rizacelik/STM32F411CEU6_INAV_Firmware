@@ -61,7 +61,8 @@ This video your can help. https://www.youtube.com/watch?v=1IrgbY0YhqM
 
 # SBUS Signal Inverter
 The inverter is easy to make, only requires 2 resistors (10K ohm and 4.7K ohm), 1 transistor (BC547b), and one servo cable. These are all very cheap and easy to find.
-![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/a108369a-dc43-42a6-abce-2d5b83d14163)
+![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/ab6d0c71-d6ce-4dff-9e2d-8936900b9bbe)
+
 
 # Old version INAV Firmware Full wire connection
 
