@@ -34,6 +34,8 @@ https://youtu.be/HbSUMauSkiw
 # For INAV 6.1 "Horizon Hawk" New wire connection
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/83336012-e669-4767-89ae-c71d9481d26e)
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/a6c83936-fd33-4d72-9d89-34b38db28b4b)
+![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/5ffae3de-afb5-4466-8a35-a601a9687dfc)
+
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/67a95211-9710-4c48-a6c3-15fd0c54f16d)
 
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/b77511d3-f1a9-44a9-8c3c-ef2d28e263a1)
