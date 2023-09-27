@@ -45,7 +45,10 @@ https://youtu.be/HbSUMauSkiw
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/ca81d0db-c112-4351-80a9-414d85008cc9)
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/c9fdb76d-98cc-43ad-b9f8-2bcff9c55686)
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/1c16d8e9-cdd1-47fe-917a-640c6c577156)
-
+## WS2811 5 Volt Led Strip
+There must be a 5V external voltage source. Don't buy from board source, you will burn the microcontroller.
+![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/7cbca6a2-a52e-4717-baac-76d49ab18dff)
+![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/01d31dc0-9265-437c-8cec-c1dc0161a9a5)
 
 # Calibration for ESC
 
