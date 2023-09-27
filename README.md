@@ -32,7 +32,7 @@ https://youtu.be/HbSUMauSkiw
 
 [![sensors setup](https://user-images.githubusercontent.com/19993109/143448588-6d599bb3-b89d-479a-997a-c6c4c3e21fea.png)](https://youtu.be/HbSUMauSkiw "sensors setup")
 # For INAV 6.1 "Horizon Hawk" New wire connection
-## Attention please:
+
 
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/83336012-e669-4767-89ae-c71d9481d26e)
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/a6c83936-fd33-4d72-9d89-34b38db28b4b)
