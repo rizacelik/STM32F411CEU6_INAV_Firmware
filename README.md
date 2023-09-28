@@ -32,16 +32,11 @@ https://youtu.be/HbSUMauSkiw
 
 [![sensors setup](https://user-images.githubusercontent.com/19993109/143448588-6d599bb3-b89d-479a-997a-c6c4c3e21fea.png)](https://youtu.be/HbSUMauSkiw "sensors setup")
 # For INAV 6.1 "Horizon Hawk" New wire connection
-
-
-![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/83336012-e669-4767-89ae-c71d9481d26e)
-![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/a6c83936-fd33-4d72-9d89-34b38db28b4b)
-![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/5ffae3de-afb5-4466-8a35-a601a9687dfc)
-
-![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/67a95211-9710-4c48-a6c3-15fd0c54f16d)
-
+![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/9762ca7f-ace0-43c2-8b32-6bdaac965667)
+![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/56b7fb02-0133-4026-941d-d7cfcdc736a7)
+![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/f8020094-aa62-4a65-8465-20f609f2cf1c)
+![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/5cb68e20-87b6-4f04-92c9-dbc4e45f7d81)
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/b77511d3-f1a9-44a9-8c3c-ef2d28e263a1)
-
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/ca81d0db-c112-4351-80a9-414d85008cc9)
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/c9fdb76d-98cc-43ad-b9f8-2bcff9c55686)
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/1c16d8e9-cdd1-47fe-917a-640c6c577156)
