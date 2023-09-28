@@ -32,6 +32,16 @@
 #define MPU9250_CS_PIN          PB12
 #define MPU9250_SPI_BUS         BUS_SPI2
 
+#define USE_IMU_MPU6000
+#define MPU6000_SPI_BUS         BUS_SPI2
+#define MPU6000_CS_PIN          PB12
+#define IMU_MPU6000_ALIGN       CW0_DEG
+
+#define USE_IMU_MPU6500
+#define MPU6500_SPI_BUS         BUS_SPI2
+#define MPU6500_CS_PIN          PB12
+#define IMU_MPU6500_ALIGN       CW0_DEG
+
 
 // *************** SPI2 OSD *****************************
 
@@ -54,18 +64,18 @@
 //#define VBUS_SENSING_ENABLED
 
 #define USE_UART1
-#define UART1_TX_PIN            PB6
-#define UART1_RX_PIN            PB7
+#define UART1_TX_PIN            PA9
+#define UART1_RX_PIN            PA10
 
 #define USE_UART2
 #define UART2_TX_PIN            PA2
 #define UART2_RX_PIN            PA3
 
-#define USE_SOFTSERIAL1
-#define SOFTSERIAL_1_TX_PIN     PA0 // pin Are 3.3v only
-#define SOFTSERIAL_1_RX_PIN     PA0 // pin Are 3.3v only
+//#define USE_SOFTSERIAL1
+//#define SOFTSERIAL_1_TX_PIN     PA0 // ST1 pad
+//#define SOFTSERIAL_1_RX_PIN     PA8 // LED pad
 
-#define SERIAL_PORT_COUNT       4
+#define SERIAL_PORT_COUNT       3
 
 #define USE_RX_PPM
 #define DEFAULT_RX_TYPE         RX_TYPE_PPM
@@ -84,15 +94,20 @@
 #define IMU_MPU6050_ALIGN       CW0_DEG
 #define MPU6050_I2C_BUS         BUS_I2C1
 
+// #define USE_IMU_MPU9250
+// #define IMU_MPU9250_ALIGN       CW0_DEG
+// #define MPU9250_I2C_BUS         BUS_I2C1
+
 #define USE_BARO
 #define BARO_I2C_BUS            BUS_I2C1
 #define USE_BARO_BMP085
 #define USE_BARO_BMP280
+#define USE_BARO_MS5611
 
 
 #define USE_MAG
-// #define AK8963_SPI_BUS          BUS_SPI2
-// #define AK8963_CS_PIN           PB12
+#define AK8963_SPI_BUS          BUS_SPI2
+#define AK8963_CS_PIN           PB12
 #define MAG_I2C_BUS             BUS_I2C1
 #define USE_MAG_AK8963
 #define USE_MAG_AK8975
@@ -108,23 +123,18 @@
 #define ADC_INSTANCE                ADC1
 #define ADC1_DMA_STREAM             DMA2_Stream0
 #define ADC_CHANNEL_1_PIN           PB0
-#define ADC_CHANNEL_2_PIN           PA5
-#define ADC_CHANNEL_3_PIN           PA6
-#define ADC_CHANNEL_4_PIN           PA7
-
+#define ADC_CHANNEL_2_PIN           PB1
 #define VBAT_ADC_CHANNEL            ADC_CHN_1
 #define CURRENT_METER_ADC_CHANNEL   ADC_CHN_2
-#define RSSI_ADC_CHANNEL            ADC_CHN_3
-#define AIRSPEED_ADC_CHANNEL        ADC_CHN_4
 
 #define USE_LED_STRIP
-#define WS2811_PIN                      PA1
+#define WS2811_PIN                  PA8
 
 // ***************  OTHERS *************************
 #define DEFAULT_FEATURES        (FEATURE_TX_PROF_SEL | FEATURE_OSD | FEATURE_CURRENT_METER | FEATURE_VBAT | FEATURE_TELEMETRY | FEATURE_SOFTSERIAL )
 
-#define USE_SPEKTRUM_BIND
-#define BIND_PIN                PA3 //  RX1
+// #define USE_SPEKTRUM_BIND
+// #define BIND_PIN                PA3 //  RX1
 
 #define USE_DSHOT
 #define USE_ESC_SENSOR
