@@ -32,7 +32,14 @@ https://youtu.be/HbSUMauSkiw
 
 [![sensors setup](https://user-images.githubusercontent.com/19993109/143448588-6d599bb3-b89d-479a-997a-c6c4c3e21fea.png)](https://youtu.be/HbSUMauSkiw "sensors setup")
 # For INAV 6.1 "Horizon Hawk" New wire connection
-![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/9762ca7f-ace0-43c2-8b32-6bdaac965667)
+
+## Quadcopter and Plane Firmware inav_6.1.1_STM32F411CE.zip
+### This firmware provides SOFTSERIAL support for Quadcopter and Plane. There is no extra servo support for Plane. Supports two extra servos for Quadcopter. The pin connections below are the same for both firmwares.
+![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/2d8ba8cc-35da-4a18-8cf1-7ceb99743839)
+
+## Hexacopter and Plane Firmware inav_6.1.1_STM32F411CE_HEX.zip
+### This firmware supports two extra servos for Hexacopter and Plane. There is no SOFTSERIAL support.
+![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/0267f55b-731b-471d-813a-0467da38dc16)
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/56b7fb02-0133-4026-941d-d7cfcdc736a7)
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/f8020094-aa62-4a65-8465-20f609f2cf1c)
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/5cb68e20-87b6-4f04-92c9-dbc4e45f7d81)
