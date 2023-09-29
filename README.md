@@ -39,7 +39,7 @@ https://youtu.be/HbSUMauSkiw
 
 ## Hexacopter and Plane Firmware inav_6.1.1_STM32F411CE_HEX.zip
 ### This firmware supports two extra servos for Hexacopter and Plane. There is no SOFTSERIAL support.
-![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/0267f55b-731b-471d-813a-0467da38dc16)
+![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/d6f5d611-003c-4fef-8e0a-678ccd408bb1)
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/56b7fb02-0133-4026-941d-d7cfcdc736a7)
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/f8020094-aa62-4a65-8465-20f609f2cf1c)
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/5cb68e20-87b6-4f04-92c9-dbc4e45f7d81)
