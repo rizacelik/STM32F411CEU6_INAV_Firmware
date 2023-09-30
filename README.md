@@ -43,7 +43,9 @@ https://youtu.be/HbSUMauSkiw
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/56b7fb02-0133-4026-941d-d7cfcdc736a7)
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/f8020094-aa62-4a65-8465-20f609f2cf1c)
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/5cb68e20-87b6-4f04-92c9-dbc4e45f7d81)
-![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/b77511d3-f1a9-44a9-8c3c-ef2d28e263a1)
+
+![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/1795caa1-f74d-40f2-b38e-1c8d144271c0)
+
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/ca81d0db-c112-4351-80a9-414d85008cc9)
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/c9fdb76d-98cc-43ad-b9f8-2bcff9c55686)
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/1c16d8e9-cdd1-47fe-917a-640c6c577156)
