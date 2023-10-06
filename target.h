@@ -60,12 +60,12 @@
 // *************** UART *****************************
 
 #define USE_VCP
-//#define VBUS_SENSING_PIN        PC15
-//#define VBUS_SENSING_ENABLED
+#define VBUS_SENSING_PIN        PC15
+#define VBUS_SENSING_ENABLED
 
 #define USE_UART1
-#define UART1_TX_PIN            PA9
-#define UART1_RX_PIN            PA10
+#define UART1_TX_PIN            PA15
+#define UART1_RX_PIN            PB3
 
 #define USE_UART2
 #define UART2_TX_PIN            PA2
