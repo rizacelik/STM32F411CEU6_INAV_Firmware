@@ -35,16 +35,21 @@ https://youtu.be/HbSUMauSkiw
 
 ## Quadcopter and Plane Firmware inav_6.1.1_STM32F411CE.zip
 ### This firmware provides SOFTSERIAL support for Quadcopter and Plane. There is no extra servo support for Plane. Supports two extra servos for Quadcopter. The pin connections below are the same for both firmwares.
-![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/2d8ba8cc-35da-4a18-8cf1-7ceb99743839)
+![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/19ab7c4f-0c6b-4d20-98dd-c0afa11c9748)
+
 
 ## Hexacopter and Plane Firmware inav_6.1.1_STM32F411CE_HEX.zip
 ### This firmware supports two extra servos for Hexacopter and Plane. There is no SOFTSERIAL support.
-![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/d6f5d611-003c-4fef-8e0a-678ccd408bb1)
-![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/56b7fb02-0133-4026-941d-d7cfcdc736a7)
-![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/f8020094-aa62-4a65-8465-20f609f2cf1c)
-![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/5cb68e20-87b6-4f04-92c9-dbc4e45f7d81)
+![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/4545d53e-88dd-4584-a6d1-9e886a483f56)
+![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/0745eb76-9379-47cf-9221-834ae1b5ec5c)
+![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/c17be322-89fb-445c-8770-3a4680f448e3)
+![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/85637e2d-9873-4bed-8da4-086c477081c6)
+
+
 
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/1795caa1-f74d-40f2-b38e-1c8d144271c0)
+
+
 
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/ca81d0db-c112-4351-80a9-414d85008cc9)
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/c9fdb76d-98cc-43ad-b9f8-2bcff9c55686)
