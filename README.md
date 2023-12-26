@@ -2,7 +2,7 @@
 This is the unofficial target for INAV( Original source: https://github.com/iNavFlight/inav). Provides support for flight control boards that do not have official INAV support for the STM32F411CEU6 board. 
 Whether or not to use this firmware is the user's responsibility and is free to do so. INAV developer link : https://github.com/iNavFlight/inav/tree/master/docs/development You can find all the details for firmware development here.
 
-# STM32F411CEU6 INAV Firmware
+# STM32F411CEU6 INAV Firmware AND Betaflight Firmware
 STM32F411CEU6 Board Firmware
 First, let's connect the board and the computer.
 ![image](https://user-images.githubusercontent.com/19993109/139479391-49dafee0-a7da-49ae-9196-10a578d4ac55.png)
