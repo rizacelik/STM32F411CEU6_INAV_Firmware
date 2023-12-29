@@ -31,13 +31,19 @@ https://impulserc.blob.core.windows.net/utilities/ImpulseRC_Driver_Fixer.exe
 https://youtu.be/HbSUMauSkiw
 
 [![sensors setup](https://user-images.githubusercontent.com/19993109/143448588-6d599bb3-b89d-479a-997a-c6c4c3e21fea.png)](https://youtu.be/HbSUMauSkiw "sensors setup")
-# For INAV 6.1 "Horizon Hawk" New wire connection
 
-## Quadcopter and Plane Firmware inav_6.1.1_STM32F411CE.zip
+## Battery monitoring
+For battery monitoring, you need to make your calculation as 3.3V. Calculations are given below. 5V does not give the actual value.
+![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/246a7cee-5df9-4562-9374-b5be9e8aedb1)
+
+
+# For INAV 6.1 and newer versions New wire connection
+
+## Quadcopter and Plane Firmware inav_xxx_STM32F411CE.zip
 ### This firmware provides SOFTSERIAL support for Quadcopter and Plane. There is no extra servo support for Plane. Supports two extra servos for Quadcopter. The pin connections below are the same for both firmwares.
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/a7bc5353-be8f-49d7-b47e-8685062d16f3)
 
-## Hexacopter and Plane Firmware inav_6.1.1_STM32F411CE_HEX.zip
+## Hexacopter and Plane Firmware inav_xxx_STM32F411CE_HEX.zip
 ### This firmware supports two extra servos for Hexacopter and Plane. There is no SOFTSERIAL support.
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/723ac35d-372e-4f74-93bd-077c431e5369)
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/79192a7b-2e28-4fb5-9351-c9b4a1ace3c0)
