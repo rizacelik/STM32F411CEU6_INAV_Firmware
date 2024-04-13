@@ -41,6 +41,15 @@ For battery monitoring, you need to make your calculation as 3.3V. Calculations 
 
 ## Quadcopter and Plane Firmware inav_xxx_STM32F411CE.zip
 ### This firmware provides SOFTSERIAL support for Quadcopter and Plane. There is no extra servo support for Plane. Supports two extra servos for Quadcopter. The pin connections below are the same for both firmwares.
+## INAV 7.1.0
+GY-91 (MPU9250 BMP280 10DOF)
+For SPI2, set BMP280 module CS pin to PC15.
+
+You can connect Buzzer instead of CURRENT_METER_ADC.
+
+SOFTSERIAL1 to TX_PIN PA9 and RX_PIN PA10
+SOFTSERIAL2 to TX_PIN PA0 and RX_PIN PA1
+
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/a7bc5353-be8f-49d7-b47e-8685062d16f3)
 
 ## Hexacopter and Plane Firmware inav_xxx_STM32F411CE_HEX.zip
