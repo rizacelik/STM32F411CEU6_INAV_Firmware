@@ -1,3 +1,7 @@
+# Attention please
+An Acceleration and Gyroscope module must be connected to the board. It will not connect to the Bare Board Configurator. Please do not ask questions about this.
+
+
 # Responsibility and resource
 This is the unofficial target for INAV( Original source: https://github.com/iNavFlight/inav). Provides support for flight control boards that do not have official INAV support for the STM32F411CEU6 board. 
 Whether or not to use this firmware is the user's responsibility and is free to do so. INAV developer link : https://github.com/iNavFlight/inav/tree/master/docs/development You can find all the details for firmware development here.
