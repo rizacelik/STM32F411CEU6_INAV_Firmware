@@ -64,7 +64,16 @@ SOFTSERIAL2 to TX_PIN PA0 and RX_PIN PA1
 
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/ca81d0db-c112-4351-80a9-414d85008cc9)
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/c9fdb76d-98cc-43ad-b9f8-2bcff9c55686)
-![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/1c16d8e9-cdd1-47fe-917a-640c6c577156)
+
+You can connect the following modules to the board with SPI2. Board pins and module connections are given.
+NOTE: There are many fakes of these modules. Therefore, first ask the seller about the module you want to buy and ask whether the chip on the module is the same. Otherwise, you may encounter fake modules.
+Many fake modules have the MPU6500 chip on them. INAV automatically detects the chip you connected and shows you the chip information on the module.
+
+![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/5618eb71-7e42-4a5d-8bed-83c58273cc69)
+
+![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/2914360c-929f-4f69-9150-e91f1aec8628)
+
+
 ## WS2811 5 Volt Led Strip
 There must be a 5V external voltage source. Don't buy from board source, you will burn the microcontroller.
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/7cbca6a2-a52e-4717-baac-76d49ab18dff)
