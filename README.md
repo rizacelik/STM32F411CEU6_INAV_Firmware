@@ -1,6 +1,10 @@
 # Attention please
 An Acceleration and Gyroscope module must be connected to the board. It will not connect to the Bare Board Configurator. Please do not ask questions about this.
 
+### NOTE
+For each INAV version, you must download the configuration for that version. In short, for the INAV 6.1.1 version, you need to download and use the INAV 6.1.1 configuration.
+For INAV 7.1 version, you need to download and use INAV 7.1 configuration.
+
 
 # Responsibility and resource
 This is the unofficial target for INAV( Original source: https://github.com/iNavFlight/inav). Provides support for flight control boards that do not have official INAV support for the STM32F411CEU6 board. 
