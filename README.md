@@ -83,8 +83,8 @@ You can connect the following modules to the board with SPI2. Board pins and mod
 NOTE: There are many fakes of these modules. Therefore, first ask the seller about the module you want to buy and ask whether the chip on the module is the same. Otherwise, you may encounter fake modules.
 Many fake modules have the MPU6500 chip on them. INAV automatically detects the chip you connected and shows you the chip information on the module.
 
+![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/ad865ced-7b75-48ea-ab6f-33a8e011db34)
 
-![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/2fe0cf44-3ecd-4340-a371-4ebd1d9ba091)
 
 
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/ac47d1d9-34d9-4d5b-a289-457b61d26b84)
