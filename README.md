@@ -70,9 +70,15 @@ SOFTSERIAL2 to TX_PIN PA0 and RX_PIN PA1
 
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/1795caa1-f74d-40f2-b38e-1c8d144271c0)
 
-![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/ca81d0db-c112-4351-80a9-414d85008cc9)
+### W25Q128 SPI connect
+![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/164d8e13-b2b6-4233-a34f-25245d6f2071)
+
+
+
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/c9fdb76d-98cc-43ad-b9f8-2bcff9c55686)
 
+
+## NOTE
 You can connect the following modules to the board with SPI2. Board pins and module connections are given.
 NOTE: There are many fakes of these modules. Therefore, first ask the seller about the module you want to buy and ask whether the chip on the module is the same. Otherwise, you may encounter fake modules.
 Many fake modules have the MPU6500 chip on them. INAV automatically detects the chip you connected and shows you the chip information on the module.
