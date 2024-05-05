@@ -58,7 +58,8 @@ You can connect Buzzer instead of CURRENT_METER_ADC.
 SOFTSERIAL1 to TX_PIN PA9 and RX_PIN PA10
 SOFTSERIAL2 to TX_PIN PA0 and RX_PIN PA1
 
-![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/b4844269-374a-45ec-8360-faa7791f1fbc)
+![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/f6c54c9f-0416-4995-ba3e-3f99fb2ef6f8)
+
 
 
 ![image](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/19993109/a7bc5353-be8f-49d7-b47e-8685062d16f3)
