@@ -5,6 +5,35 @@ An Acceleration and Gyroscope module must be connected to the board. It will not
 For each INAV version, you must download the configuration for that version. In short, for the INAV 6.1.1 version, you need to download and use the INAV 6.1.1 configuration.
 For INAV 7.1 version, you need to download and use INAV 7.1 configuration.
 
+## Portable Configurator on Phone and Tablet
+
+We would like to thank esteemed https://github.com/suchigno Suchigno for preparing this support. 
+
+If you want to use the configurator on your phone or tablet you can do it using an app: SpeedyBee. (https://www.speedybee.com/speedy-bee-app/)
+
+Available for Android and iOS, I think it is the best, complete and free to have an INAV compatible drone configurator.
+There are 2 ways to connect the F411:
+
+- using a USB OTG cable connected to your phone or tablet.
+ Not very convenient because if you have to calibrate for example it has a cable that hinders your movements. If you connect it to the board you must remove the 5v power coming from the ESCs.
+
+- using a BLE 4.0 module
+I tested two different modules: HM-11 and HC-05.
+![Image00003](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/39296768/86381c73-7532-4602-892c-43f045397dd5)
+![Image00004](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/39296768/6fed6e91-6656-47c3-8f3a-2590474a5ae3)
+
+NOTE: if you use the HM-11 module without adapter, small and light, you have to use a 5v to 3.3v converter, I used this one
+![ams1117-33](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/assets/39296768/cee4b04c-b3a6-4c3d-9e22-cb6e38ffcd55)
+
+In both cases you have to use AT commands to change the name of the module (optional), change the baurate to 57600.
+Also in the configurator you must set the baud rate of the chosen port to 57600.
+You can use one of the board's serial ports, if you don't use GPS you can use the uart, or the software serial ports.
+[Here](https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/issues/57) you can find the updated PCB where I added a connector for software serial 2.
+The BLE modules consume little power, you can always leave it connected and use the app to, for example, check before the flight that the GPS has correctly configured the home point, way point, etc. without using the OSD.
+
+
+## PCB project
+All the details are here https://github.com/rizacelik/STM32F411CEU6_INAV_Firmware/issues/57
 
 # Responsibility and resource
 This is the unofficial target for INAV( Original source: https://github.com/iNavFlight/inav). Provides support for flight control boards that do not have official INAV support for the STM32F411CEU6 board. 
