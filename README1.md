@@ -79,7 +79,7 @@ inav_xxx_STM32F411CE.zip
 Example:
 
 
-inav_7.1.0_STM32F411CE.zip
+inav_9.0.1_STM32F411CE.zip
 
 
 ---
@@ -94,7 +94,7 @@ Example:
 
 | Firmware | Configurator |
 |--------|--------|
-| INAV 7.x | Configurator 7.x |
+| INAV 9.x | Configurator 9.x |
 
 Extract the ZIP file and run:
 
