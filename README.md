@@ -164,6 +164,11 @@ BMI160 |
 
 ---
 
+## ⭐ I2C Supported IMU Sensors
+ALL Barometer, All Compass sensors.
+
+---
+
 # 📍 Pinout
 
 ---
