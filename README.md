@@ -69,17 +69,12 @@ The inverter is easy to make, only requires 2 resistors (10K ohm and 4.7K ohm), 
 
 This flight controller runs **INAV Firmware**.
 
-Download firmware:
-
-inav_xxx_STM32F411CE.zip
+Download firmware:  inav_xxx_STM32F411CE.zip
 
 
 `xxx` = firmware version number.
 
-Example:
-
-
-inav_9.0.1_STM32F411CE.zip
+Example: inav_9.0.1_STM32F411CE.zip
 
 
 ---
@@ -96,10 +91,7 @@ Example:
 |--------|--------|
 | INAV 9.x | Configurator 9.x |
 
-Extract the ZIP file and run:
-
-
-inav-configurator.exe
+Extract the ZIP file and run: inav-configurator.exe
 
 
 ---
