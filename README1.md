@@ -36,6 +36,12 @@ Starting from **INAV 9.0.1**, the pin configuration provided in this document wi
 ![License](img/inav-9-0-1.png)
 
 ---
+## SBUS Signal Inverter
+The inverter is easy to make, only requires 2 resistors (10K ohm and 4.7K ohm), 1 transistor (BC547b), and one cable. These are all very cheap and easy to find.
+
+![SBUS Inverter](img/sbus.png)
+
+---
 
 # ✈️ Features
 
