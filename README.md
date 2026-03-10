@@ -32,6 +32,33 @@ Please make sure you follow the correct documentation for your firmware version.
 
 Starting from **INAV 9.0.1**, the pin configuration provided in this document will remain the reference for future firmware releases.
 
+---
+# ⚡ Power Requirements
+
+The flight controller **must be powered with a stable 5V DC supply**.
+
+Most ESCs include a **5V BEC (Battery Eliminator Circuit)** that can be used to power the flight controller.
+
+### Power Options
+
+You can power the flight controller using one of the following methods:
+
+1. **ESC with built-in 5V BEC**
+2. **External 5V BEC module**
+
+If your ESC **does not provide a 5V BEC**, you must use an **external regulated 5V BEC** to power the flight controller.
+
+### ⚠️ Important Warning
+
+- The flight controller **must not be powered directly from battery voltage**.
+- Only use a **stable 5V DC supply**.
+
+Supplying incorrect voltage may **permanently damage the flight controller**.
+
+Always verify the output voltage of your BEC before connecting it to the FC.
+
+---
+
 # Detailed Diagram
 ![License](img/inav-9-0-1.png)
 
@@ -164,20 +191,7 @@ BMI160 |
 
 ---
 
-## ⭐ I2C Supported IMU Sensors
-ALL Barometer, All Compass sensors.
-
----
-
 # 📍 Pinout
-
----
-
-# 🔔 Beeper
-
-| Function | Pin |
-|--------|--------|
-Beeper | PB2 |
 
 ---
 
@@ -207,6 +221,18 @@ CS | PC15 |
 CS | PC14 |
 
 ---
+# ⭐ I2C Supported IMU Sensors
+ALL Barometer, All Compass sensors.
+
+---
+
+# 🔔 Beeper
+
+| Function | Pin |
+|--------|--------|
+Beeper | PB2 |
+
+---
 
 # 🔌 UART Ports
 
@@ -225,6 +251,54 @@ RX | PB3 |
 |------|------|
 TX | PA2 |
 RX | PA3 |
+
+
+---
+
+# 🔌 Wiring Guide
+
+## UART1 GPS Connection
+
+| GPS | Flight Controller |
+|----|----|
+TX | RX (UART) PB3 Pin|
+RX | TX (UART) PA15 Pin|
+5V | 5V |
+GND | GND |
+
+---
+
+## UART2 Receiver Connection
+
+### SBUS /iBUS
+
+| Receiver | FC | FC Pin |
+|----|----|----|
+Signal | RX | PA3 Pin  |
+5V | 5V | External 5V  |
+GND | GND | Common GND |
+
+### CRSF / ELRS
+
+| Receiver | FC | FC Pin |
+|----|----|----|
+TX | RX | PA3 Pin  |
+RX | TX | PA2 Pin  |
+5V | 5V | External 5V  |
+GND | GND | Common GND |
+
+---
+
+## ESC Connection
+
+| ESC | FC |
+|----|----|
+Signal | Motor Pin PB4  |
+Signal | Motor Pin PB5  |
+Signal | Motor Pin PB0  |
+Signal | Motor Pin PB1  |
+5V | BEC |
+GND | GND |
 
 ---
 
