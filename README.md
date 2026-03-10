@@ -224,6 +224,14 @@ CS | PC14 |
 # ⭐ I2C Supported IMU Sensors
 ALL Barometer, All Compass sensors.
 
+
+# 🔗 I2C
+
+| Signal | Pin |
+|------|------|
+SCL | PB8 |
+SDA | PB9 |
+
 ---
 
 # 🔔 Beeper
@@ -308,15 +316,6 @@ GND | GND |
 |------|------|
 TX | PA0 |
 RX | PA1 |
-
----
-
-# 🔗 I2C
-
-| Signal | Pin |
-|------|------|
-SCL | PB8 |
-SDA | PB9 |
 
 ---
 
